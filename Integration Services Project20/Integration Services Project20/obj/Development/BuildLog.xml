@@ -1,89 +1,94 @@
 <?xml version="1.0"?>
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
-    <Name>Integration Services Project20</Name>
-    <LastWriteTime>2020-08-28T23:12:22.0117819Z</LastWriteTime>
+    <Name>RiotPlayersP2</Name>
+    <LastWriteTime>2020-08-31T17:26:51.1705791Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>P_Rejgi.dtsx</Name>
-      <LastWriteTime>2020-08-25T14:51:13.915497Z</LastWriteTime>
+      <LastWriteTime>2020-08-29T00:03:52.9285238Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>P_ME.dtsx</Name>
-      <LastWriteTime>2020-08-25T19:54:49.8603968Z</LastWriteTime>
+      <LastWriteTime>2020-08-29T00:03:52.9265219Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>P_Rex.dtsx</Name>
-      <LastWriteTime>2020-08-25T14:54:53.9303719Z</LastWriteTime>
+      <LastWriteTime>2020-08-29T00:03:52.9295222Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>P_Zdrej.dtsx</Name>
-      <LastWriteTime>2020-08-25T14:55:40.3304666Z</LastWriteTime>
+      <LastWriteTime>2020-08-29T00:03:52.930522Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>P_Lolowaty.dtsx</Name>
-      <LastWriteTime>2020-08-26T20:08:18.6687932Z</LastWriteTime>
+      <LastWriteTime>2020-08-29T00:03:52.9255233Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>MH_Rejgi.dtsx</Name>
-      <LastWriteTime>2020-08-25T19:54:49.7953972Z</LastWriteTime>
+      <LastWriteTime>2020-08-29T00:03:52.8995224Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>MH_Me.dtsx</Name>
-      <LastWriteTime>2020-08-27T14:50:27.401081Z</LastWriteTime>
+      <LastWriteTime>2020-08-29T00:03:52.8985243Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>MH_Zdrej.dtsx</Name>
-      <LastWriteTime>2020-08-25T22:22:10.5785731Z</LastWriteTime>
+      <LastWriteTime>2020-08-29T00:03:52.9025242Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>MH_Rex.dtsx</Name>
-      <LastWriteTime>2020-08-25T23:42:13.5308912Z</LastWriteTime>
+      <LastWriteTime>2020-08-29T00:03:52.9005236Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>MH_Lolowaty.dtsx</Name>
-      <LastWriteTime>2020-08-25T22:01:50.8816158Z</LastWriteTime>
+      <LastWriteTime>2020-08-29T00:03:52.897526Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Playground.dtsx</Name>
-      <LastWriteTime>2020-08-27T22:26:54.2013966Z</LastWriteTime>
+      <LastWriteTime>2020-08-29T00:03:52.9325211Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>M_Damasques.dtsx</Name>
-      <LastWriteTime>2020-08-28T23:12:21.9927857Z</LastWriteTime>
+      <LastWriteTime>2020-08-29T00:03:52.9065243Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>M_Rejgi.dtsx</Name>
-      <LastWriteTime>2020-08-28T23:46:29.5692463Z</LastWriteTime>
+      <LastWriteTime>2020-08-29T00:03:52.9145212Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>M_Rex.dtsx</Name>
-      <LastWriteTime>2020-08-28T23:12:21.9637818Z</LastWriteTime>
+      <LastWriteTime>2020-08-30T19:06:22.3469178Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>M_Zdrej.dtsx</Name>
-      <LastWriteTime>2020-08-28T23:12:21.9467833Z</LastWriteTime>
+      <LastWriteTime>2020-08-29T15:10:56.6724985Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>M_Lolowaty.dtsx</Name>
-      <LastWriteTime>2020-08-28T23:12:21.9217842Z</LastWriteTime>
+      <LastWriteTime>2020-08-29T15:04:57.3267307Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>StageToFinal.dtsx</Name>
+      <LastWriteTime>2020-08-31T16:28:51.6550092Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>

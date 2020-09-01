@@ -15,7 +15,7 @@
       <SSIS:Project SSIS:ProtectionLevel="EncryptSensitiveWithUserKey" xmlns:SSIS="www.microsoft.com/SqlServer/SSIS">
         <SSIS:Properties>
           <SSIS:Property SSIS:Name="ID">{912b67a9-61eb-4949-bb9a-272cea7033ff}</SSIS:Property>
-          <SSIS:Property SSIS:Name="Name">Integration Services Project20</SSIS:Property>
+          <SSIS:Property SSIS:Name="Name">RiotPlayersP2</SSIS:Property>
           <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
           <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
           <SSIS:Property SSIS:Name="VersionBuild">0</SSIS:Property>
@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">DESKTOP-EH2T9C0</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1jTarAPuIU2dHvPPzQTOzwAAAAACAAAAAAAQZgAAAAEAACAAAACJguKjNQbxjR1qwIZbSIm2ZDANlxZMrYZ7qrvowTMAvwAAAAAOgAAAAAIAACAAAACwNRejyy4jA9rpkYpyXjofEsHZxOmU0YIHG8w5cl8KrZAAAAC+w1I33em6fP+3KZF50UAMM2qi403jnkPPKZh3jMyovVo91i11hs2XaIRCmfB17+cg0Yf6dzMTZ1PYkl7oIFpbeqXEcNv5vE5dDdIZAcvpHFoBBZPY+BpkTkQP0FTsn6Na2PhnxM564sRo7xJXJ5qUDdocTlg8or5cQhJngOkR4CdnzAfw0Nj82a0LVz7pCw1AAAAAwhgHFeT7vorIGejI0kXhu8Bwv5UrnIMv1rF2KBq2gxRn/lJrPUXh9G1HH89ahP28T+TGI4LI5Vvzqg9oG1CGMQ==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1jTarAPuIU2dHvPPzQTOzwAAAAACAAAAAAAQZgAAAAEAACAAAADSGGfLp8rFq7fLm8DyA3jRd1ZNTdR9deJTvRm32hTODgAAAAAOgAAAAAIAACAAAAARqLKG6R5UkVS+VeGW7aoUmVVVgLSTUakphVeGG2/FJ5AAAACyjXaqeKbPheWtlc27LSCvMruQiFQ2yq2A7VG0jM2mkC0ANYmHV7yHoJ3xTXnT4AkcXmTKVNZQwE4pF+FGP207RqxZAIvYidm0NL3chkbfMTzZehG8clH07BJ9ejnxiL1/Xh4toBfFQ8eXZrSLA3hlHtwjHQpiQ27b3/hGjCgROJ7nvxWEFiPC0JRc4lx4yFVAAAAAoUYgkBBIAEoEcDFIwAWhfDTdfqsy89hg5pybcl7U1eeDBs+Qu3T1xkGubBIf3YzrRDNnqMrsJMnsI0V3aowzDQ==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -910,10 +910,10 @@
                 <SSIS:Property SSIS:Name="Name">M_Rex</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">10</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">3</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{61325992-F970-422B-829A-5DC38EE3B9D3}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{AB2604AA-EA2E-432A-AF5C-01C36015F30C}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>

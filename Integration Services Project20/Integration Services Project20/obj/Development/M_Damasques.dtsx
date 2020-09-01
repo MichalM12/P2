@@ -13887,24 +13887,24 @@ AAAAAAAAAAAAAAAAAAA=]]></arrayElement>
               startId="Package\Data Flow Task\Conditional Split.Outputs[NewRecord]" />
             <path
               refId="Package\Data Flow Task.Paths[OLE DB Source Output2]"
-              endId="Package\Data Flow Task\Sort 7.Inputs[Sort Input]"
-              name="OLE DB Source Output"
-              startId="Package\Data Flow Task\OLE DB Source 2.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\Data Flow Task.Paths[OLE DB Source Output3]"
-              endId="Package\Data Flow Task\Sort 5.Inputs[Sort Input]"
-              name="OLE DB Source Output"
-              startId="Package\Data Flow Task\OLE DB Source 3.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\Data Flow Task.Paths[OLE DB Source Output]"
               endId="Package\Data Flow Task\Sort 3.Inputs[Sort Input]"
               name="OLE DB Source Output"
               startId="Package\Data Flow Task\OLE DB Source 1.Outputs[OLE DB Source Output]" />
             <path
-              refId="Package\Data Flow Task.Paths[OLE DB Source Output1]"
+              refId="Package\Data Flow Task.Paths[OLE DB Source Output3]"
               endId="Package\Data Flow Task\Sort 1.Inputs[Sort Input]"
               name="OLE DB Source Output"
               startId="Package\Data Flow Task\OLE DB Source.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\Data Flow Task.Paths[OLE DB Source Output]"
+              endId="Package\Data Flow Task\Sort 7.Inputs[Sort Input]"
+              name="OLE DB Source Output"
+              startId="Package\Data Flow Task\OLE DB Source 2.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\Data Flow Task.Paths[OLE DB Source Output1]"
+              endId="Package\Data Flow Task\Sort 5.Inputs[Sort Input]"
+              name="OLE DB Source Output"
+              startId="Package\Data Flow Task\OLE DB Source 3.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\Data Flow Task.Paths[Output 0]"
               endId="Package\Data Flow Task\MainData.Inputs[Union All Input 1]"
@@ -13932,64 +13932,64 @@ AAAAAAAAAAAAAAAAAAA=]]></arrayElement>
               startId="Package\Data Flow Task\Script Component.Outputs[Output 4]" />
             <path
               refId="Package\Data Flow Task.Paths[Sort Output7]"
-              endId="Package\Data Flow Task\Merge Join 1.Inputs[Merge Join Right Input]"
-              name="Sort Output"
-              startId="Package\Data Flow Task\Sort 3.Outputs[Sort Output]" />
-            <path
-              refId="Package\Data Flow Task.Paths[Sort Output6]"
-              endId="Package\Data Flow Task\Merge Join 2.Inputs[Merge Join Left Input]"
-              name="Sort Output"
-              startId="Package\Data Flow Task\Sort 6.Outputs[Sort Output]" />
-            <path
-              refId="Package\Data Flow Task.Paths[Sort Output5]"
-              endId="Package\Data Flow Task\Merge Join 3.Inputs[Merge Join Right Input]"
-              name="Sort Output"
-              startId="Package\Data Flow Task\Sort 5.Outputs[Sort Output]" />
-            <path
-              refId="Package\Data Flow Task.Paths[Sort Output4]"
-              endId="Package\Data Flow Task\Merge Join 3.Inputs[Merge Join Left Input]"
-              name="Sort Output"
-              startId="Package\Data Flow Task\Sort 4.Outputs[Sort Output]" />
-            <path
-              refId="Package\Data Flow Task.Paths[Sort Output2]"
-              endId="Package\Data Flow Task\Merge Join 1.Inputs[Merge Join Left Input]"
-              name="Sort Output"
-              startId="Package\Data Flow Task\Sort 2.Outputs[Sort Output]" />
-            <path
-              refId="Package\Data Flow Task.Paths[Sort Output1]"
-              endId="Package\Data Flow Task\Merge Join.Inputs[Merge Join Left Input]"
-              name="Sort Output"
-              startId="Package\Data Flow Task\Sort.Outputs[Sort Output]" />
-            <path
-              refId="Package\Data Flow Task.Paths[Sort Output]"
-              endId="Package\Data Flow Task\Merge Join 2.Inputs[Merge Join Right Input]"
-              name="Sort Output"
-              startId="Package\Data Flow Task\Sort 7.Outputs[Sort Output]" />
-            <path
-              refId="Package\Data Flow Task.Paths[Sort Output3]"
               endId="Package\Data Flow Task\Merge Join.Inputs[Merge Join Right Input]"
               name="Sort Output"
               startId="Package\Data Flow Task\Sort 1.Outputs[Sort Output]" />
             <path
+              refId="Package\Data Flow Task.Paths[Sort Output6]"
+              endId="Package\Data Flow Task\Merge Join 2.Inputs[Merge Join Right Input]"
+              name="Sort Output"
+              startId="Package\Data Flow Task\Sort 7.Outputs[Sort Output]" />
+            <path
+              refId="Package\Data Flow Task.Paths[Sort Output5]"
+              endId="Package\Data Flow Task\Merge Join.Inputs[Merge Join Left Input]"
+              name="Sort Output"
+              startId="Package\Data Flow Task\Sort.Outputs[Sort Output]" />
+            <path
+              refId="Package\Data Flow Task.Paths[Sort Output4]"
+              endId="Package\Data Flow Task\Merge Join 1.Inputs[Merge Join Left Input]"
+              name="Sort Output"
+              startId="Package\Data Flow Task\Sort 2.Outputs[Sort Output]" />
+            <path
+              refId="Package\Data Flow Task.Paths[Sort Output2]"
+              endId="Package\Data Flow Task\Merge Join 3.Inputs[Merge Join Right Input]"
+              name="Sort Output"
+              startId="Package\Data Flow Task\Sort 5.Outputs[Sort Output]" />
+            <path
+              refId="Package\Data Flow Task.Paths[Sort Output1]"
+              endId="Package\Data Flow Task\Merge Join 2.Inputs[Merge Join Left Input]"
+              name="Sort Output"
+              startId="Package\Data Flow Task\Sort 6.Outputs[Sort Output]" />
+            <path
+              refId="Package\Data Flow Task.Paths[Sort Output]"
+              endId="Package\Data Flow Task\Merge Join 1.Inputs[Merge Join Right Input]"
+              name="Sort Output"
+              startId="Package\Data Flow Task\Sort 3.Outputs[Sort Output]" />
+            <path
+              refId="Package\Data Flow Task.Paths[Sort Output3]"
+              endId="Package\Data Flow Task\Merge Join 3.Inputs[Merge Join Left Input]"
+              name="Sort Output"
+              startId="Package\Data Flow Task\Sort 4.Outputs[Sort Output]" />
+            <path
               refId="Package\Data Flow Task.Paths[Union All Output 13]"
+              endId="Package\Data Flow Task\Sort 2.Inputs[Sort Input]"
+              name="Union All Output 1"
+              startId="Package\Data Flow Task\P_Stats.Outputs[Union All Output 1]" />
+            <path
+              refId="Package\Data Flow Task.Paths[Union All Output 1]"
               endId="Package\Data Flow Task\Slowly Changing Dimension.Inputs[Slowly Changing Dimension Input]"
               name="Union All Output 1"
               startId="Package\Data Flow Task\MainData.Outputs[Union All Output 1]" />
             <path
-              refId="Package\Data Flow Task.Paths[Union All Output 1]"
+              refId="Package\Data Flow Task.Paths[Union All Output 11]"
               endId="Package\Data Flow Task\Sort 6.Inputs[Sort Input]"
               name="Union All Output 1"
               startId="Package\Data Flow Task\Team.Outputs[Union All Output 1]" />
             <path
-              refId="Package\Data Flow Task.Paths[Union All Output 11]"
+              refId="Package\Data Flow Task.Paths[Union All Output 12]"
               endId="Package\Data Flow Task\Sort 4.Inputs[Sort Input]"
               name="Union All Output 1"
               startId="Package\Data Flow Task\pIdentity.Outputs[Union All Output 1]" />
-            <path
-              refId="Package\Data Flow Task.Paths[Union All Output 12]"
-              endId="Package\Data Flow Task\Sort 2.Inputs[Sort Input]"
-              name="Union All Output 1"
-              startId="Package\Data Flow Task\P_Stats.Outputs[Union All Output 1]" />
             <path
               refId="Package\Data Flow Task.Paths[Union All Output 14]"
               endId="Package\Data Flow Task\Sort.Inputs[Sort Input]"
@@ -14253,7 +14253,7 @@ AAAAAAAAAAAAAAAAAAA=]]></arrayElement>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task.Paths[Union All Output 13]"
+          Id="Package\Data Flow Task.Paths[Union All Output 1]"
           TopLeft="1487.5,179.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -14287,7 +14287,7 @@ AAAAAAAAAAAAAAAAAAA=]]></arrayElement>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task.Paths[Sort Output3]"
+          Id="Package\Data Flow Task.Paths[Sort Output7]"
           TopLeft="105.5,277.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -14321,7 +14321,7 @@ AAAAAAAAAAAAAAAAAAA=]]></arrayElement>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task.Paths[Sort Output1]"
+          Id="Package\Data Flow Task.Paths[Sort Output5]"
           TopLeft="281,271.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -14535,7 +14535,7 @@ AAAAAAAAAAAAAAAAAAA=]]></arrayElement>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task.Paths[OLE DB Source Output1]"
+          Id="Package\Data Flow Task.Paths[OLE DB Source Output3]"
           TopLeft="105.25,180.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -14621,7 +14621,7 @@ AAAAAAAAAAAAAAAAAAA=]]></arrayElement>
           Id="Package\Data Flow Task\Union All 2"
           TopLeft="541.5,642" />
         <EdgeLayout
-          Id="Package\Data Flow Task.Paths[OLE DB Source Output]"
+          Id="Package\Data Flow Task.Paths[OLE DB Source Output2]"
           TopLeft="408,174">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -14643,7 +14643,7 @@ AAAAAAAAAAAAAAAAAAA=]]></arrayElement>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task.Paths[Union All Output 12]"
+          Id="Package\Data Flow Task.Paths[Union All Output 13]"
           TopLeft="564.5,173.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -14665,7 +14665,7 @@ AAAAAAAAAAAAAAAAAAA=]]></arrayElement>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task.Paths[Sort Output7]"
+          Id="Package\Data Flow Task.Paths[Sort Output]"
           TopLeft="406,271">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -14699,7 +14699,7 @@ AAAAAAAAAAAAAAAAAAA=]]></arrayElement>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task.Paths[Sort Output2]"
+          Id="Package\Data Flow Task.Paths[Sort Output4]"
           TopLeft="565,267">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -14851,7 +14851,7 @@ AAAAAAAAAAAAAAAAAAA=]]></arrayElement>
           Id="Package\Data Flow Task\Sort 7"
           TopLeft="676,219" />
         <EdgeLayout
-          Id="Package\Data Flow Task.Paths[Union All Output 11]"
+          Id="Package\Data Flow Task.Paths[Union All Output 12]"
           TopLeft="1254,179.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -14885,7 +14885,7 @@ AAAAAAAAAAAAAAAAAAA=]]></arrayElement>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task.Paths[OLE DB Source Output3]"
+          Id="Package\Data Flow Task.Paths[OLE DB Source Output1]"
           TopLeft="1097,181">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -14907,7 +14907,7 @@ AAAAAAAAAAAAAAAAAAA=]]></arrayElement>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task.Paths[Union All Output 1]"
+          Id="Package\Data Flow Task.Paths[Union All Output 11]"
           TopLeft="893.5,182">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -14929,7 +14929,7 @@ AAAAAAAAAAAAAAAAAAA=]]></arrayElement>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task.Paths[OLE DB Source Output2]"
+          Id="Package\Data Flow Task.Paths[OLE DB Source Output]"
           TopLeft="733,182">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -14959,7 +14959,7 @@ AAAAAAAAAAAAAAAAAAA=]]></arrayElement>
           Id="Package\Data Flow Task\Merge Join 3"
           TopLeft="1126,408" />
         <EdgeLayout
-          Id="Package\Data Flow Task.Paths[Sort Output4]"
+          Id="Package\Data Flow Task.Paths[Sort Output3]"
           TopLeft="1276.5,261">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -14993,7 +14993,7 @@ AAAAAAAAAAAAAAAAAAA=]]></arrayElement>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task.Paths[Sort Output5]"
+          Id="Package\Data Flow Task.Paths[Sort Output2]"
           TopLeft="1099.5,262">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -15027,7 +15027,7 @@ AAAAAAAAAAAAAAAAAAA=]]></arrayElement>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task.Paths[Sort Output6]"
+          Id="Package\Data Flow Task.Paths[Sort Output1]"
           TopLeft="895.5,261">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -15061,7 +15061,7 @@ AAAAAAAAAAAAAAAAAAA=]]></arrayElement>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task.Paths[Sort Output]"
+          Id="Package\Data Flow Task.Paths[Sort Output6]"
           TopLeft="729.5,261">
           <EdgeLayout.Curve>
             <mssgle:Curve

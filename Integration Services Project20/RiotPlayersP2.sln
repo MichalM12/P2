@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "RiotPlayersP2", "Integration Services Project20\RiotPlayersP2.dtproj", "{FE0DD57E-EE65-4710-BA06-725C5E910A57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE0DD57E-EE65-4710-BA06-725C5E910A57}.Development|Default.ActiveCfg = Development
+		{FE0DD57E-EE65-4710-BA06-725C5E910A57}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1326C58B-959A-44B6-AB42-05909E2DA7B4}
+	EndGlobalSection
+EndGlobal
