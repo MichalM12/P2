@@ -5,7 +5,7 @@
       <Name>Development</Name>
       <Options>
         <ServerName>localhost</ServerName>
-        <PathOnServer>/SSISDB/P2/Integration Services Project20</PathOnServer>
+        <PathOnServer>/SSISDB/P2/RiotPlayersP2</PathOnServer>
         <UserIDs />
         <UserPasswords />
         <OfflineMode>false</OfflineMode>
